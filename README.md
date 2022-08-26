@@ -8,6 +8,9 @@ Database powered by Supabase
 
 A RESTful API built with Python 3.8.10 and Flask-Restful running in a virtual environment hosted on Vercel.
 
+This repository contains files to start a python virtual environment.
+
+
 
 Deployment Instructions:
 
@@ -31,4 +34,5 @@ Deployment Instructions:
 
 
 Reference Article for Vercel Deployment:
+
 https://dev.to/andrewbaisden/how-to-deploy-a-python-flask-app-to-vercel-2o5k
